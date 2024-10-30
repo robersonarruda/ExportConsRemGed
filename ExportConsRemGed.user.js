@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Exporta Consulta Rematriculas Ged
-// @version      1.1.6
+// @version      1.1.7
 // @description  Exporta em excel os dados exibidos na consulta realizada no painel rematrícula do GED.
 // @author       Roberson Arruda
 // @match		  http://*.seduc.mt.gov.br/ged/hwmgedpainelrematricula.aspx*
@@ -69,7 +69,7 @@
                 "Grid_ Ger Tur Dta Fim",
                 "Grid_ Ged Rem Ger Trn Cod",
                 "Turno",
-                "Justificativa",
+                //"Justificativa",
                 "Grid_ Ged Rem Ori Ger Ano Let Cod",
                 "Grid_ Ged Rem Ori Ger Mat Cod",
                 "Ged Mat Ano Let Fin",
