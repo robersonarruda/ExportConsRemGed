@@ -5,9 +5,9 @@
 // @author       Roberson Arruda
 // @match		  http://*.seduc.mt.gov.br/ged/hwmgedpainelrematricula.aspx*
 // @match		  https://*.seduc.mt.gov.br/ged/hwmgedpainelrematricula.aspx*
-// @homepage      https://github.com/robersonarruda/extratordep/blob/main/ExportConsRemGed.user.js
-// @downloadURL   https://github.com/robersonarruda/extratordep/raw/main/ExportConsRemGed.user.js
-// @updateURL     https://github.com/robersonarruda/extratordep/raw/main/ExportConsRemGed.user.js
+// @homepage      https://github.com/robersonarruda/ExportConsRemGed/blob/main/ExportConsRemGed.user.js
+// @downloadURL   https://github.com/robersonarruda/ExportConsRemGed/raw/main/ExportConsRemGed.user.js
+// @updateURL     https://github.com/robersonarruda/ExportConsRemGed/raw/main/ExportConsRemGed.user.js
 // @copyright  2024, Roberson Arruda (robersonarruda@outlook.com)
 // ==/UserScript==
 
